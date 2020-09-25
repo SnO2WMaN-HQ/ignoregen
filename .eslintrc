@@ -1,11 +1,20 @@
 {
   "root": true,
   "extends": [
+    "plugin:@shopify/node",
     "plugin:@shopify/typescript",
     "plugin:@shopify/jest",
     "plugin:@shopify/prettier"
   ],
   "rules": {
-    "import/order": [0]
+    "import/order": [0],
+    "node/shebang": [
+      2,
+      {
+        "convertPath": {
+          "src/**/*.ts": ["^src/(.+?)\\.ts$", "lib/$1.js"]
+        }
+      }
+    ]
   }
 }
