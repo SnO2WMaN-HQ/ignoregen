@@ -452,10 +452,10 @@
     update-notifier "^2.2.0"
     yargs "^8.0.2"
 
-"@ignoregen/core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@ignoregen/core/-/core-1.0.0.tgz#288134213c06cb0123bf51f120e5e4540b8a411f"
-  integrity sha512-1eyp6OFs6iWJztwydvDu3eiDoqh3Pp87Tw68tBCUOV6KS2sY91M24MdNmQGaSGYbZu6w7uKgGVfcJAaV+vmYTg==
+"@ignoregen/core@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@ignoregen/core/-/core-1.1.1.tgz#0ed594dd7004313dffe8ab6957e00284d9bf7cc5"
+  integrity sha512-hpoubHZksaxMcmaxFBOHal/6CqHEY8ljPtqf6LNU4Z5NE+Y5/9TrF0JfiVOu7tQDcFmIZVPEdAGM6pskEN3CTA==
   dependencies:
     axios "^0.19.0"
 

@@ -44,10 +44,11 @@
     "node": ">=12"
   },
   "dependencies": {
-    "@ignoregen/core": "^1.0.0",
+    "@ignoregen/core": "^1.1.1",
     "cac": "6.6.1",
     "cosmiconfig": "7.0.0",
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "type-fest": "^0.16.0"
   },
   "devDependencies": {
     "@arkweid/lefthook": "0.7.2",
