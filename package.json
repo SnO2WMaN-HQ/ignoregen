@@ -44,7 +44,7 @@
     "node": ">=12"
   },
   "dependencies": {
-    "@ignoregen/core": "^1.1.1",
+    "@ignoregen/core": "^1.2.1",
     "cac": "6.6.1",
     "cosmiconfig": "7.0.0",
     "glob": "^7.1.6",
