@@ -1,5 +1,5 @@
 {
-  "name": "ignoregen",
+  "name": "@ignoregen/cli",
   "license": "MIT",
   "author": {
     "email": "me@sno2wman.dev",
